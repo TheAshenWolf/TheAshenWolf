@@ -4,5 +4,4 @@
 </p>
 <figure class="image">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAshenWolf&theme=dark&langs_count=5" alt="WakaTime Stats">
-  <figcaption><em>*I do not use WakaTime at work. Only for my free time projects.</em></figcaption>
 </figure>
